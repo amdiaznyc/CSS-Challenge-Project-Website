@@ -1,0 +1,42 @@
+body {
+  background: skyblue;
+
+}
+
+.main {
+  display: flex;
+
+
+}
+
+.content {
+
+}
+
+.sidebar {
+  background: orange;
+  padding: 10px;
+  border: 10px solid black;
+
+
+}
+
+
+/*.image-grid {
+  max-width: 500px;
+  display: flex;
+  flex-direction: column;
+}*/
+
+/*#image-1 {
+  height: 500px;
+}--remember to add id and fix name to index file if i add this back*/
+
+.images {
+  height: 500px;
+  width: auto;
+
+  border: 10px solid black;
+
+
+}
